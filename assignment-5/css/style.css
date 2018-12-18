@@ -27,5 +27,5 @@ p {
   border-style: solid;
   border-width: 1px;
   border-color: powderblue;
-  background: back;
+  opacity: 0.55;
 }
