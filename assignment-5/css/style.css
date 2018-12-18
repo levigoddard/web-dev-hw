@@ -1,0 +1,31 @@
+body {
+   background-color: #373E42;
+}
+
+/* Text Styling for A5: */
+h1, h2, p {
+   color: black;
+}
+
+/* Select ALL paragraph elements. */
+p {
+    border-style: solid;
+    border-width: 2px;
+    border-color: gold;
+    background: #f1f1f1;
+}
+.styled {
+  /* Targets ONLY paragraphs with the "styled" class. */
+  border-style: dotted;
+  border-width: 3px;
+  border-color: silver;
+  background: #f1f1f1;
+}
+
+.image {
+  /* Targets ONLY "image" class. */
+  border-style: solid;
+  border-width: 1px;
+  border-color: powderblue;
+  background: back;
+}
