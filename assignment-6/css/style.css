@@ -1,0 +1,38 @@
+body {
+   background-color: #373E42;
+}
+
+/* Text Styling for A6: */
+h1, h2{
+   color: teal;
+   font-family: times;
+}
+
+p{
+  color: white
+}
+
+.element-1 {
+   font-size: 1.5em;
+   font-family: verdana, sans-serif;
+   color: white
+}
+a:link {
+   color: #79AF33;
+   text-decoration: none;
+}
+
+a:visited {
+   color: #777;
+   text-decoration: none;
+}
+
+a:hover {
+   color: #1CCDCA;
+   font-style: italic;
+}
+
+.element-2 {
+   font-size: 1em;
+   font-family: verdana, sans-serif;
+}
