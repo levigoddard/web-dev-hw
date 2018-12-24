@@ -4,26 +4,23 @@ body {
 
 /* Text Styling for A6: */
 h1, h2{
-   color: darkred;
+   color: black;
    font-family: times;
+   border-style: dotted;
+   border-width: 3px;
+   border-color: silver;
+   background: #f1f1f1;
+ }
 }
 
-p{
-  color: black
-}
-
-.element-1 {
-   font-size: 1.5em;
-   font-family: verdana, sans-serif;
-   color: white
-}
 a:link {
    color: darkgreen;
    text-decoration: bold;
+   font-size: 1.5em;
 }
 
 a:visited {
-   color: #777;
+   color: #776;
    text-decoration: bold;
 }
 
@@ -31,8 +28,9 @@ a:hover {
    color: #1CCDCA;
    font-style: italic;
 }
-
-.element-2 {
-   font-size: 1em;
-   font-family: verdana, sans-serif;
+p {
+    border-style: solid;
+    border-width: 2px;
+    border-color: gold;
+    background: #f1f1f1;
 }
